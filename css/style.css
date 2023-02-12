@@ -184,6 +184,11 @@ section {
   }
 }
 
+/* latest work */
+.portfolio-section {
+  background-color: lightgray;
+}
+
 /* Contact */
 #contact {
   background-color: lightgray;
