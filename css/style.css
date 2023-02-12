@@ -33,6 +33,10 @@ a:hover {
 .navbar {
   position: relative;
 }
+.navbar-toggler-icon {
+  background-image: url("../img/preview.gif");
+  border: 3px solid tomato;
+}
 
 .navbar-collapse {
   text-align: center;
