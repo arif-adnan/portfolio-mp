@@ -34,8 +34,8 @@ a:hover {
   position: relative;
 }
 .navbar-toggler-icon {
-  background-image: url("../img/preview.gif");
-  border: 3px solid tomato;
+  background-image: url("../img/togglerIcon.png");
+  border: 3px solid #173b6c;
 }
 
 .navbar-collapse {
